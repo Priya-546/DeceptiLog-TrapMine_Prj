@@ -145,7 +145,8 @@ Feel free to reach out for collaborations or suggestions.
  
 ```
 Email: gunjan.87gn.89@gmail.com
-GitHub: https://github.com/Priya-546
+GitHub: https://github.com/Priya-546/DeceptiLog-TrapMine_Prj/blob/main/honeypot_project
+
 ```
  
 ---
